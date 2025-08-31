@@ -7,24 +7,19 @@
 
 <p estilo="margem-inferior: 30px;">
 
+📝 Descrição
+O LimpeJá foi criado para empoderar diaristas, oferecendo uma ferramenta que simplifica a gestão do trabalho autônomo. Através de um design intuitivo e funcionalidades claras, o aplicativo demonstra como o profissional pode ter total autonomia para definir seus horários, preços e áreas de atuação, além de receber pagamentos de forma rápida e segura.
 
-<h2 style="color: #34495e; font-size: 2em; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; margin-bottom: 20px;">📋 Índice</h2>
+✨ Funcionalidades em Destaque
+Autonomia Total: Controle completo sobre a sua agenda e valores.
 
-<ul style="list-style-type: none; preenchimento: 0;">
+Pagamento Imediato: Recebimento via PIX no mesmo dia da conclusão do serviço.
 
-<li style="margin-bottom: 8px;"><a href="#-sobre-o-projeto" style="color: #3498db; text-decoration: none; font-weight: bold;">📖 Sobre o Projeto</a></li>
+Taxa Zero (Temporário): Aproveite 100% dos seus ganhos nas primeiras 4 diárias.
 
-<li style="margin-bottom: 8px;"><a href="#-funcionalidades-principais" style="color: #3498db; text-decoration: none; font-weight: bold;">✨ Funcionalidades Principais</a>
+Novos Clientes: Exposição no aplicativo para expandir sua base de clientes.
 
-<ul style="list-style-type: disco; preenchimento esquerdo: 20px; margem superior: 5px;">
-
-<li style="margin-bottom: 5px;"><a href="#para-clientes" style="color: #2980b9; text-decoration: none;">Para Clientes</a></li>
-
-<li style="margin-bottom: 5px;"><a href="#para-profissionais-de-limpeza-prestadores" style="color: #2980b9; text-decoration: none;">Para Profissionais de Limpeza</a></li>
-
-</ul>
-
-</li>
+Transparência Total: Acompanhe seus ganhos em tempo real, sem taxas escondidas.
 
 ⚙️ Tecnologias Utilizadas
 Este projeto de apresentação foi construído utilizando:
