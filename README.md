@@ -1,23 +1,30 @@
 <div align="center">
-<img src="../../assets/images/logo.png" alt="Logo LimpeJá" width="150" style="border-radius: 1rem;">
+<img src="https://drive.google.com/uc?id=1PkFFe5bAEVf-x-nPD3BMO21gptKfFosu" alt="LimpeJá-App Logo" width="280">
 <br/>
-<h1>LimpeJá - Apresentação para Diaristas</h1>
-<p>Este aplicativo é uma apresentação pré-lançamento do <strong>LimpeJá</strong>, uma plataforma projetada para conectar profissionais de limpeza a novos clientes de forma simples, transparente e eficiente.</p>
-</div>
+<h1 style="color: #2c3e50; font-size: 2.8em; margin-top: 15px; margin-bottom: 10px;">Aplicativo LimpeJá ✨🧹</h1>
 
-📝 Descrição
-O LimpeJá foi criado para empoderar diaristas, oferecendo uma ferramenta que simplifica a gestão do trabalho autônomo. Através de um design intuitivo e funcionalidades claras, o aplicativo demonstra como o profissional pode ter total autonomia para definir seus horários, preços e áreas de atuação, além de receber pagamentos de forma rápida e segura.
+<p style="color: #7f8c8d; font-size: 1.2em; margin-bottom: 25px;">Seu marketplace de confiança para encontrar e agendar os melhores profissionais de limpeza da sua região!</p>
 
-✨ Funcionalidades em Destaque
-Autonomia Total: Controle completo sobre a sua agenda e valores.
+<p estilo="margem-inferior: 30px;">
 
-Pagamento Imediato: Recebimento via PIX no mesmo dia da conclusão do serviço.
 
-Taxa Zero (Temporário): Aproveite 100% dos seus ganhos nas primeiras 4 diárias.
+<h2 style="color: #34495e; font-size: 2em; border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; margin-bottom: 20px;">📋 Índice</h2>
 
-Novos Clientes: Exposição no aplicativo para expandir sua base de clientes.
+<ul style="list-style-type: none; preenchimento: 0;">
 
-Transparência Total: Acompanhe seus ganhos em tempo real, sem taxas escondidas.
+<li style="margin-bottom: 8px;"><a href="#-sobre-o-projeto" style="color: #3498db; text-decoration: none; font-weight: bold;">📖 Sobre o Projeto</a></li>
+
+<li style="margin-bottom: 8px;"><a href="#-funcionalidades-principais" style="color: #3498db; text-decoration: none; font-weight: bold;">✨ Funcionalidades Principais</a>
+
+<ul style="list-style-type: disco; preenchimento esquerdo: 20px; margem superior: 5px;">
+
+<li style="margin-bottom: 5px;"><a href="#para-clientes" style="color: #2980b9; text-decoration: none;">Para Clientes</a></li>
+
+<li style="margin-bottom: 5px;"><a href="#para-profissionais-de-limpeza-prestadores" style="color: #2980b9; text-decoration: none;">Para Profissionais de Limpeza</a></li>
+
+</ul>
+
+</li>
 
 ⚙️ Tecnologias Utilizadas
 Este projeto de apresentação foi construído utilizando:
